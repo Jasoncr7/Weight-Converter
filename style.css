@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #494949;
+    font-family: cursive;
+}
+.card{
+    width: 65%;
+    height: 80%;
+    margin: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    line-height: 1.8;
+    margin-bottom: 1%;
+    opacity: 0;
+}
+.card h1{
+    margin-bottom: 10px;
+}
+.container1{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+.kg{
+    width: 40%;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 1%;
+}
+.card-pound{
+    background-color: skyblue;
+}
+.card-ounces{
+    background-color: red;
+}
+.card-tonne{
+    background-color: yellow;
+}
+.result-pound{
+    font-size: 1.35rem;
+}
+.result-ounces{
+    font-size: 1.35rem;
+}
+.result-tonne{
+    font-size: 1.35rem;
+}
+.container2{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+.poundem{
+    width: 40%;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 1%;
+}
+.card2{
+    width: 65%;
+    height: 80%;
+    margin: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    line-height: 1.8;
+    margin-bottom: 1%;
+    opacity: 0;
+}
+.card-kilogram{
+    background-color: skyblue;
+}
+.card-ounces2{
+    background-color: red;
+}
+.card-tonne2{
+    background-color: yellow;
+}
